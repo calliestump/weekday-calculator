@@ -23,7 +23,7 @@ $ code .
 ```
 #### Dont forget that in order to push any changes you need to add your own GitHub repo. to your project.
 ```
-git remote add origin https://github.com/calliestump/weekday-calculator
+git remote add origin [repo link]
 ```
 ## **Technologies Used**
 * JavaScript
